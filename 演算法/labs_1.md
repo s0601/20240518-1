@@ -41,8 +41,6 @@ O(nlogn)
 
 以下是使用 Python 實現堆積排序的範例：
 
-
-
 def heapify(arr, n, i):
     largest = i
     left = 2 * i + 1
@@ -80,40 +78,10 @@ AI 產生的代碼。請仔細檢視及使用。
 
 Sorted array: [2, 9, 30, 32, 38, 47, 61, 69, 79, 81]
 
-這段程式碼展示了如何使用堆積排序將陣列遞增排序。如果您需要更詳細的解釋或其他說明，請隨時告知！34
-
-深入了解
-
-1.magiclen.org
-2.medium.com
-3.theriseofdavid.github.io
-4.ithelp.ithome.com.tw
-5
-
-github.com
-6
-
-github.com
-7
-
-github.com
-8
-
-github.com
-9
-
-github.com
-10
-
-github.com
-11
-
-github.com
-
-
-
-
-
-
+這段程式碼展示了如何使用堆積排序將陣列遞增排序。
+如果您需要更詳細的解釋或其他說明，請隨時告知！34
 ```
+- Online Python Interpreter
+  - [Online Python Compiler (Interpreter) - Programiz](https://www.programiz.com/python-programming/online-compiler/)
+ 
 
