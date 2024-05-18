@@ -66,8 +66,9 @@ def heap_sort(arr):
         arr[i], arr[0] = arr[0], arr[i]
         heapify(arr, i, 0)
 
-print("UnSorted array:", data)
+
 data = [69, 81, 30, 38, 9, 2, 47, 61, 32, 79]
+print("UnSorted array:", data)
 heap_sort(data)
 print("Sorted array:", data)
 
